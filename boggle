@@ -1,0 +1,2 @@
+
+This question would be based off the board game Boggle. Suppose we have a 4x4 Boggle board. A user playing Boggle wants to know whether a particular word is on the board. What we need to do is to write an algorithm to determine whether a word is on the board. If the given word is on the board, “true” will be returned, and if the word is not on the board, “false” will be returned.

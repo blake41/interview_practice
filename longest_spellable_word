@@ -1,0 +1,5 @@
+You have two arrays.  For example
+tiles = ["A", "B", "D", "E", "F", "I", "O", "R", "A", "W", "S", "M”]
+words = ["DOG", "FRIDA", "GOOD", "FOOD", "RED", "BROWNIE", "AWESOMEST", "FIORABADE", "ABDEFIORAWSMT"]
+
+I want a method that returns to me the longest word in the words array that can be spelled with the letters in the tiles array.
